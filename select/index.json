@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ビバナミダ",
+  "base_artist": "岡村靖幸",
+  "createdAt": "2026-02-13T23:23:53.586348Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ビバナミダ",
+      "artist": "Yasuyuki Okamura",
+      "has_synced": true,
+      "path": "select/01_ビバナミダ_Yasuyuki_Okamura.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ビバナミダ",
+      "artist": "Okamura, Yasuyuki",
+      "has_synced": true,
+      "path": "select/02_ビバナミダ_Okamura,_Yasuyuki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ビバナミダ (TV size)",
+      "artist": "岡村靖幸",
+      "has_synced": false,
+      "path": "select/03_ビバナミダ_(TV_size)_岡村靖幸.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ビバナミダ",
+      "artist": "岡村靖幸",
+      "has_synced": false,
+      "path": "select/04_ビバナミダ_岡村靖幸.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ビバナミダ",
+      "artist": "Yun*chi",
+      "has_synced": true,
+      "path": "select/05_ビバナミダ_Yun_chi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ビバナミダ",
+      "artist": "Yasuyuki Okamura (岡村靖幸)",
+      "has_synced": true,
+      "path": "select/06_ビバナミダ_Yasuyuki_Okamura_(岡村靖幸).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビバナミダ",
+      "artist": "岡村 靖幸",
+      "has_synced": false,
+      "path": "select/pl_01_ビバナミダ_岡村_靖幸.txt"
+    }
+  ]
+}
